@@ -62,6 +62,33 @@
  
 ### Snapshots
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/patelsoumyaranjan04/Ikshana/blob/a389441db9e84910b53ff546f1239a53af58ba62/Snapshots/S1.jpeg" alt="Image 1" style="width: 45%;">
+    <img src="https://github.com/patelsoumyaranjan04/Ikshana/blob/a389441db9e84910b53ff546f1239a53af58ba62/Snapshots/S2.jpeg" alt="Image 2" style="width: 45%;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/patelsoumyaranjan04/Ikshana/blob/a389441db9e84910b53ff546f1239a53af58ba62/Snapshots/S3.jpeg" alt="Image 3" style="width: 45%;">
+    <img src="https://github.com/patelsoumyaranjan04/Ikshana/blob/a389441db9e84910b53ff546f1239a53af58ba62/Snapshots/S4.jpeg" alt="Image 4" style="width: 45%;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/patelsoumyaranjan04/Ikshana/blob/a389441db9e84910b53ff546f1239a53af58ba62/Snapshots/S5.jpeg" alt="Image 5" style="width: 45%;">
+    <img src="https://github.com/patelsoumyaranjan04/Ikshana/blob/a389441db9e84910b53ff546f1239a53af58ba62/Snapshots/S6.jpeg" alt="Image 6" style="width: 45%;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/patelsoumyaranjan04/Ikshana/blob/a389441db9e84910b53ff546f1239a53af58ba62/Snapshots/S7.jpeg" alt="Image 7" style="width: 45%;">
+    <img src="https://github.com/patelsoumyaranjan04/Ikshana/blob/a389441db9e84910b53ff546f1239a53af58ba62/Snapshots/S8.jpeg" alt="Image 8" style="width: 45%;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/patelsoumyaranjan04/Ikshana/blob/a389441db9e84910b53ff546f1239a53af58ba62/Snapshots/S9.jpeg" alt="Image 9" style="width: 45%;">
+    <img src="https://github.com/patelsoumyaranjan04/Ikshana/blob/a389441db9e84910b53ff546f1239a53af58ba62/Snapshots/S10.jpeg" alt="Image 10" style="width: 45%;">
+</div>
+
+
+<img src="https://github.com/patelsoumyaranjan04/Ikshana/blob/a389441db9e84910b53ff546f1239a53af58ba62/Snapshots/S11.jpeg">
  
 ## Getting Started
  
@@ -79,4 +106,14 @@ To run the project:
  
 3. For the backend:
    - Execute the `backend_v2` file.
-   - Note: The `requirements.txt` file contains necessary dependencies, but ensure you have Flask version 2.0.2, flask-cors, matplotlib, GDAL, Pillow, opencv-python, numpy, requests, and TensorFlow 2.6.0 installed.
+  
+ ## Authors
+This project was a collaborative effort for Smart India Hackathon 2023.
+
+- [@Aum Atman Behera](https://github.com/678aum)
+- [@Bidhan Ranjan Bhoi](https://github.com/777BRB)
+- [@Krushna S. Baral](https://github.com/krishnasbaral)
+- [@Manas Ranjan Sethi](https://github.com/Manas2k3)
+- [@Satyajeet Patra](https://github.com/SatyajeetPatra-11)
+- [@Soumya Ranjan Patel](https://www.github.com/patelsoumyaranjan04)
+ 
