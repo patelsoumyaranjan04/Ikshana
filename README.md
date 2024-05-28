@@ -4,6 +4,8 @@
  
  
 **Ikshana** is an Smart India Hackathon 2023 winner project aimed at analyzing satellite images and recognizing terrain types using deep learning models. It also provides powerful tools for terrain data analysis using the GDAL library and offers segmentation models for identifying mixed terrains.
+
+## Demo [Video](https://youtu.be/8rG08_x84kA)
  
 ## Features
  
